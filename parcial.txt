@@ -1,0 +1,37 @@
+1. Que tipo de errores se presentaron o se pueden presentar con su implementacion al problema?
+
+-(a) Los errores mas comunes que se podrian presentar al momento de implementar el anterior problema son que constantemente se presentan errores en el codigo 
+y al momento de implementar el codigo o correrlo no funciona, esto se da por errores de redaccion o errores de sintaxis en el codigo.
+
+-(b) Tambien se presentan varios inconvenientes al momento de implementar el codigo solicitado en el sentido de que se debe tener un numero indeterminado de 
+clientes e igualemente de productos se debian realizar mas pasos para llegar a este cometido. Esto se vuelve algo tedioso ya que se debe escribir demasiado codigo. 
+
+-(c) Otro incoveniente presentado es que como el codigo fue realizado en octave con lenguaje de programacion matlab, por ello cuando se procede a ejecutar el 
+codigo debemos tener en cuenta y escribir exactamente lo que se nos pregunta como por ejemplo el rol debemos deccir exactamente si es un estudiante o un 
+profesor,  como se encuentra escrito sin espacios sin mayusculas ni nada fuera de eso, tiene que ser exactamente la misma palabra.
+
+-(d) Un error que creo que se puede presentar al momento de implementar el codigo es que cada persona tiene su propia forma de escribir codigo por ello como 
+para nosotros puede ser facil leer nuestro codigo para otras personas, del mismo modo nosotros podemos ver el codigo de otra persona raro y no entenderlo pero 
+este puede estar bien escrito, o sea que existen varios tipos de soluciones para un mismo problema.
+
+-(e) Otro error muy comun que sucede al momento de implementar un codigo es no planificar bien la implementacion del codigo, esto porque si no se sabe que va
+hacer el codigo o igualmente no se sabe aplicar este conocimiento al lenguaje de programacion lo mas probable es que nunca lleguemos a una solucion puesto
+que si no tenemos en claro que es lo que vamos a solucionar tendremos muchos errores de sintaxis en nuestro codigo.
+
+2.Que estrategias podria usar para solucionar estos errores?
+
+-(a) Para solucionar estos contratiempos tenemos la facilidad de trabajar en octave el cual al ser un IDE cuenta con depurador el cual nos dice en donde estan los 
+errores de escritura o de sintaxis, ademas nos dice la localizacion exacta de los mismos.
+
+-(b) Tambien para tener agilidad al momento de redactar nuestro codigo contamos que este mismo programa cuenta con completador asi podemos organizar
+nuestro codigo de mejor manera. 
+
+-(c) Para el caso en el que coloquemos los datos en la ventana de comandos incorrectamente la solucion es colocar en el codigo un elseif al final en donde imprime 
+una respuesta en el comando que nos informa que hubo en error de escritura o igualmente que no existe ese cargo para la tienda.
+
+-(d) Para dar solucion a este inconveniente es escribir el codigo de la manera mas ordenada expresando las entradas del mismo e igualemente sus salidas.
+
+-(e) Debemos empezar teniendo una idea clara del programa o codigo que vamos a realizar. Por ejemplo, el codigo que debiamos implementar debia ayudar a dar
+descuentos en la mercateria y permitir imprimir la factura. con esta idea ya se podia solucionar el problema.
+
+ 
