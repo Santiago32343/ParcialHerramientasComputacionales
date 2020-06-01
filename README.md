@@ -12,3 +12,4 @@ PROCEDIMIENTO O ALGORITMO: Comenzamos por pedir el rol de la persona y dependien
 Al final el codigo debera imprimir el valor total a pagar por sus productos de la forma: ”El (rol) con cedula numero (cedula), debe pagar el valor (total) por el producto (codigo)”
 
 SALIDAS: rol (cargo escogido, sea estudiante o profesor), cedula ( cedula del comprador), total (operacion de la multiplicacion de cantidad y precio por el descuento asignado a cada rol) y codigo (codigo del producto)
+
